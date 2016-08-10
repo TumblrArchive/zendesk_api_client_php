@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/zendesk/zendesk_api_client_php.svg?branch=master)](https://travis-ci.org/zendesk/zendesk_api_client_php)
 
+:warning: :warning: :warning: **This fork of Zendesk PHP API Client Library IS NO LONGER BEING ACTIVELY MAINTAINED.**
+
 ## API version support
 
 This client **only** supports Zendesk's API v2.  Please see our [API documentation](http://developer.zendesk.com) for more information.
